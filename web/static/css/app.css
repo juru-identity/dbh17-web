@@ -1,1 +1,11 @@
 /* This file is for your main application css. */
+
+#transaction_role {
+  margin-left: 15px;
+}
+
+body {
+  background-color: #e9e9e4;
+  font-family: 'Droid Sans', sans-serif;
+  color:#414042;
+}

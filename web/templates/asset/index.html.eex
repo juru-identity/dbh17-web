@@ -4,6 +4,6 @@
   <% end %>
 </ul>
 
-<p>
-  <a href="/assets/new">New</a>
+<p class="text-center">
+  <a class="btn btn-primary" href="/assets/new">New Asset</a>
 </p>
