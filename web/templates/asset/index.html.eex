@@ -1,0 +1,9 @@
+<ul>
+  <%= for asset <- @assets do %>
+    <li><%= asset.asset_id %><br /><%= asset.name %></li>
+  <% end %>
+</ul>
+
+<p>
+  <a href="/assets/new">New</a>
+</p>
